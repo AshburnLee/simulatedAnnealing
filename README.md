@@ -12,5 +12,5 @@ the solution space would be the index and the energy would be the value of each 
 
 -  *basicImplementation.java* is the simplest example of simulated annealing.
 
-To be continu...
+To be continue...
 
