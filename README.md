@@ -11,5 +11,5 @@ The content of this project:
 - *myTour.java* manages tour, for instance, calculate the distance; select the next tour...
 - *simulateAnnealingForTSP.java* applies simulate annealing to TSP.
 
-The results are pretty satisfying, it finds a good enough solution only a few steps of searching, which is significant because, for a TSP with 15 cities, the solution space has (15! = 1.307674368×10¹²) solitions, while using SA, in this case, it took aroubd 1000 steps to find a good solution. >>>>>>>>>>>>>>>>>>>
+The results are pretty satisfying, it finds a good enough solution only a few steps of searching, which is significant because, for a TSP with 15 cities, the solution space has (15! = 1.307674368×10¹²) solitions, while using SA, in this case, it took aroubd 1000 steps to find a good solution.
 
